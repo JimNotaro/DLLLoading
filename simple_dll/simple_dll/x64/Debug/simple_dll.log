@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     Creating library ..\simple_dll.lib and object ..\simple_dll.exp
+simple_dll.exp : warning LNK4070: /OUT:simpledll.dll directive in .EXP differs from output filename '..\simple_dll.dll'; ignoring directive
+  simple_dll.vcxproj -> C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\simple_dll\simple_dll\..\simple_dll.dll

@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  simple_dll.cpp
+     Creating library C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\DLLLoader\x64\Release\simple_dll.lib and object C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\DLLLoader\x64\Release\simple_dll.exp
+simple_dll.exp : warning LNK4070: /OUT:simpledll.dll directive in .EXP differs from output filename 'C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\DLLLoader\x64\Release\simple_dll.dll'; ignoring directive
+  Generating code
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+simple_dll.exp : warning LNK4070: /OUT:simpledll.dll directive in .EXP differs from output filename 'C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\DLLLoader\x64\Release\simple_dll.dll'; ignoring directive
+  simple_dll.vcxproj -> C:\Users\James\Desktop\cpp_projects\DLLLoaderProject\DLLLoader\x64\Release\simple_dll.dll
